@@ -3,9 +3,5 @@ numpy
 matplotlib
 plotly
 nbformat
-streamlit
-altair<5
-imghdr
-
-
-
+streamlit>=1.28.0
+altair>=4.2.0
